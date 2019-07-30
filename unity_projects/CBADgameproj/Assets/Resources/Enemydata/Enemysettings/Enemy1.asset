@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deab7ee9f65134239a43ae0051a7c74c, type: 3}
+  m_Name: Enemy1
+  m_EditorClassIdentifier: 
+  Hp: 5
+  Name: Enemy1
+  defeatscore: 100
+  isloop: 0
+  movedata:
+  - time: 0
+    position: {x: -4.5, y: 5.5, z: -1}
+    movemethod: 0
+  - time: 2
+    position: {x: -1, y: 2.5, z: -1}
+    movemethod: 0
+  - time: 5
+    position: {x: -1, y: 2.5, z: -1}
+    movemethod: 0
+  - time: 7
+    position: {x: -1, y: 5, z: -1}
+    movemethod: 0
+  shotdata:
+  - shottime: 3
+    shottype: 2
+    bullet: {fileID: 4721688765722626467, guid: d5ea9d62724464ab3b79e5055719c844,
+      type: 3}
+    bulletspeed: 2
+    directiondegree: 0
+    resolution: 12
+  - shottime: 3
+    shottype: 2
+    bullet: {fileID: 4721688765722626467, guid: d5ea9d62724464ab3b79e5055719c844,
+      type: 3}
+    bulletspeed: 1.8
+    directiondegree: 0
+    resolution: 12
+  - shottime: 3.2
+    shottype: 2
+    bullet: {fileID: 4721688765722626467, guid: d5ea9d62724464ab3b79e5055719c844,
+      type: 3}
+    bulletspeed: 1.8
+    directiondegree: 5
+    resolution: 12
+  - shottime: 3.2
+    shottype: 2
+    bullet: {fileID: 4721688765722626467, guid: d5ea9d62724464ab3b79e5055719c844,
+      type: 3}
+    bulletspeed: 1.6
+    directiondegree: 5
+    resolution: 12
+  - shottime: 3.4
+    shottype: 2
+    bullet: {fileID: 4721688765722626467, guid: d5ea9d62724464ab3b79e5055719c844,
+      type: 3}
+    bulletspeed: 1.6
+    directiondegree: 10
+    resolution: 12
+  - shottime: 3.4
+    shottype: 2
+    bullet: {fileID: 4721688765722626467, guid: d5ea9d62724464ab3b79e5055719c844,
+      type: 3}
+    bulletspeed: 1.4
+    directiondegree: 10
+    resolution: 12
+  - shottime: 3.6
+    shottype: 2
+    bullet: {fileID: 4721688765722626467, guid: d5ea9d62724464ab3b79e5055719c844,
+      type: 3}
+    bulletspeed: 1.4
+    directiondegree: 15
+    resolution: 12
+  - shottime: 3.6
+    shottype: 2
+    bullet: {fileID: 4721688765722626467, guid: d5ea9d62724464ab3b79e5055719c844,
+      type: 3}
+    bulletspeed: 1.2
+    directiondegree: 15
+    resolution: 12
+  - shottime: 3.8
+    shottype: 2
+    bullet: {fileID: 4721688765722626467, guid: d5ea9d62724464ab3b79e5055719c844,
+      type: 3}
+    bulletspeed: 1.2
+    directiondegree: 20
+    resolution: 12
+  - shottime: 3.8
+    shottype: 2
+    bullet: {fileID: 4721688765722626467, guid: d5ea9d62724464ab3b79e5055719c844,
+      type: 3}
+    bulletspeed: 1
+    directiondegree: 20
+    resolution: 12

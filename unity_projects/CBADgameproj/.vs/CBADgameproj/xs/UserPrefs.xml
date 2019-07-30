@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{751B6079-4968-063B-96EF-B1287B8D1BC8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TimeEditor.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Enemydata.cs" Line="18" Column="32" />
+      <File FileName="Assets/Scripts/Enemyshots.cs" Line="87" Column="64" />
+      <File FileName="Assets/Scripts/EnemyInstantiate.cs" Line="24" Column="14" />
+      <File FileName="Assets/Scripts/TimeEditor.cs" Line="9" Column="6" />
+      <File FileName="Assets/Scripts/Playershot.cs" Line="32" Column="18" />
+      <File FileName="Assets/Scripts/AnimationEventMaker.cs" Line="82" Column="41" />
+      <File FileName="Assets/Scripts/EnemyCriteria.cs" Line="64" Column="46" />
+      <File FileName="Assets/Scripts/Accelarationinput.cs" Line="13" Column="14" />
+      <File FileName="Assets/Scripts/Bullet.cs" Line="29" Column="14" />
+      <File FileName="Assets/Scripts/BulletCriteria.cs" Line="26" Column="31" />
+      <File FileName="Assets/Scripts/Explosion.cs" Line="13" Column="34" />
+      <File FileName="Assets/Scripts/Movescene.cs" Line="24" Column="10" />
+      <File FileName="Assets/Scripts/Player.cs" Line="77" Column="58" />
+      <File FileName="Assets/Scripts/Scoredata.cs" Line="25" Column="41" />
+      <File FileName="Assets/Scripts/Scoretext.cs" Line="14" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

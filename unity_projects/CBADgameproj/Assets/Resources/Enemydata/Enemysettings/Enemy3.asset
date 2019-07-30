@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deab7ee9f65134239a43ae0051a7c74c, type: 3}
+  m_Name: Enemy3
+  m_EditorClassIdentifier: 
+  Hp: 5
+  Name: Enemy3
+  defeatscore: 0
+  isloop: 1
+  movedata:
+  - time: 0
+    position: {x: -1, y: 3, z: -1}
+    movemethod: 0
+  - time: 3
+    position: {x: -1.5, y: 4, z: -1}
+    movemethod: 0
+  - time: 6
+    position: {x: -0.5, y: 4, z: -1}
+    movemethod: 0
+  - time: 9
+    position: {x: -1, y: 3, z: -1}
+    movemethod: 0
+  shotdata:
+  - shottime: 0
+    shottype: 1
+    bullet: {fileID: 4721688765722626467, guid: d5ea9d62724464ab3b79e5055719c844,
+      type: 3}
+    bulletspeed: 1.2
+    directiondegree: 0
+    resolution: 12
+  - shottime: 3
+    shottype: 0
+    bullet: {fileID: 4721688765722626467, guid: d5ea9d62724464ab3b79e5055719c844,
+      type: 3}
+    bulletspeed: 1.2
+    directiondegree: 0
+    resolution: 12
+  - shottime: 6
+    shottype: 0
+    bullet: {fileID: 4721688765722626467, guid: d5ea9d62724464ab3b79e5055719c844,
+      type: 3}
+    bulletspeed: 1.2
+    directiondegree: 0
+    resolution: 12
+  - shottime: 6
+    shottype: 0
+    bullet: {fileID: 4721688765722626467, guid: d5ea9d62724464ab3b79e5055719c844,
+      type: 3}
+    bulletspeed: 1
+    directiondegree: 0
+    resolution: 10
